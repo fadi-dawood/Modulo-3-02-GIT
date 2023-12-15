@@ -1,7 +1,12 @@
+
+
+
+li{
+    background-color: aquamarine;
+    list-style: square;
+}
+
 h1{
     color:blue;
 
-}
-li{
-    background-color: yellow;
 }
